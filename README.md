@@ -104,5 +104,4 @@ Cuento con experiencia en metodologías ágiles de trabajo como Scrum y tecnolog
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
