@@ -14,7 +14,10 @@ Cuento con experiencia en metodologías ágiles de trabajo como Scrum y tecnolog
 - ⚡Me gusta el fútbol  
   
 
--  ❓Contáctame vía e-mail: agomezf@pucp.edu.pe  
+- ❓Contáctame vía e-mail: agomezf@pucp.edu.pe  
+
+
+- 🤝 Último logro, en conjunto con otros 7 capos: https://app-gym-frontend.vercel.app/
   
 
 <br/>  
