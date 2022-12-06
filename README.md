@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hola! Soy Alexsandro, Desarrollador Web FullStack 👨‍💻 e Ingeniero Mecánico 🚀
+### <div align="center">Hola! Soy Alexsandro, Desarrollador Web FullStack 👨‍💻🚀
 Profesional con capacidades afianzadas de liderazgo, trabajo en equipo y bajo presión. Me considero una persona empática y responsable. Siempre con buena disposición para la evaluación de distintos puntos de vista. 
 Cuento con experiencia en metodologías ágiles de trabajo como Scrum y tecnologías como JavasScript, React.js, Node.js, Redux Toolkit, PostgreSQL, Cloudinary, Chart.js, entre otras.</div>  
   
